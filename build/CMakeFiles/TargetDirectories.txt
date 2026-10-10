@@ -1,0 +1,2 @@
+C:/Users/ADMIN 2026/Desktop/var-engine/build/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN 2026/Desktop/var-engine/build/CMakeFiles/rebuild_cache.dir
